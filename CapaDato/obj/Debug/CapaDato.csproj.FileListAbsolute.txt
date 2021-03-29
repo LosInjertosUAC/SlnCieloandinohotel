@@ -1,0 +1,6 @@
+C:\Users\Luis Vizcarra\source\repos\SlnCieloandinohotel\CapaDato\bin\Debug\CapaDato.dll
+C:\Users\Luis Vizcarra\source\repos\SlnCieloandinohotel\CapaDato\bin\Debug\CapaDato.pdb
+C:\Users\Luis Vizcarra\source\repos\SlnCieloandinohotel\CapaDato\obj\Debug\CapaDato.csprojAssemblyReference.cache
+C:\Users\Luis Vizcarra\source\repos\SlnCieloandinohotel\CapaDato\obj\Debug\CapaDato.csproj.CoreCompileInputs.cache
+C:\Users\Luis Vizcarra\source\repos\SlnCieloandinohotel\CapaDato\obj\Debug\CapaDato.dll
+C:\Users\Luis Vizcarra\source\repos\SlnCieloandinohotel\CapaDato\obj\Debug\CapaDato.pdb
